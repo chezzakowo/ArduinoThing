@@ -1,6 +1,8 @@
-## Installation
-### For ESP32
+## 🪛 Installation For ESP32
 
+### 📹 Full videos of how to do this comming soon!
+
+### 📋 Guide
 1. Connect your ESP32 to an I2C LCD Display as shown below:
 <p align="center">
   <img src="../../../docs/assets/images/diagram/en/esp32_diagram-en.png" alt="ESP32 wiring diagram">
