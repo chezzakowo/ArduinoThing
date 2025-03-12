@@ -15,7 +15,7 @@
 - [Tài liệu chính thức về ESP32 / WROOM MicroPython (Nạp thủ công)](https://micropython.org/download/ESP32_GENERIC/)
 
 3. Tải xuống firmware mới nhất từ [RELEASES](https://github.com/chezzakowo/ArduinoThing/releases):
-- Phiên bản mới nhất: [0.1.0](https://github.com/chezzakowo/ArduinoThing/releases/download/0.1.0/ArduinoThing-ESP32_0.1.0-EN.zip)
+- Phiên bản mới nhất: [0.1.0](https://github.com/chezzakowo/ArduinoThing/releases/download/0.1.0/ArduinoThing-ESP32_0.1.0-VI.zip)
 - Bản thử nghiệm: 🛠️ Đang phát triển
 
 4. Giải nén tệp ZIP vào một thư mục và đặt tên theo ý bạn.
