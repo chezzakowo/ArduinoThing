@@ -1,6 +1,8 @@
-## Cài đặt
-### Dành cho ESP32
+## Cài đặt Dành Cho ESP32
 
+### 📹Video hướng dẫn đầy đủ chi tiết sẽ được làm sớm thôi! Hãy kiên nhẫn nhé
+
+### 📋 Hướng dẫn chi tiết
 1. Kết nối ESP32 của bạn với màn hình LCD I2C như hình bên dưới:
 <p align="center">
   <img src="../../../docs/assets/images/diagram/vi/esp32_diagram-vi.png\" alt="Sơ đồ kết nối ESP32">
